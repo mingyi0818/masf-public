@@ -8,7 +8,7 @@ matplotlib.use('Agg')
 plt.rcParams['font.family'] = 'DejaVu Sans'
 plt.rcParams['figure.dpi'] = 300
 
-BASE_DIR = r"d:\ResearchPaperPrepare\JX02_Teaching_Research_2"
+BASE_DIR = r"d:\ResearchPaperPrepare\masf-public"
 RESULTS_DIR = os.path.join(BASE_DIR, "results")
 PLOTS_DIR = os.path.join(RESULTS_DIR, "plots")
 TABLES_DIR = os.path.join(RESULTS_DIR, "tables")
