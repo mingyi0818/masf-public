@@ -1,5 +1,5 @@
 """
-MASF Experiments - JX02_Teaching_Research_2 (Fixed Version)
+MASF Experiments - masf-public (Fixed Version)
 E1: KC-aware Misconception Classification Benchmark (no data leakage)
 E2: Scaffolded Feedback Generation & Evaluation
 E3: KC Association Analysis
@@ -29,7 +29,7 @@ SEED = 42
 random.seed(SEED)
 np.random.seed(SEED)
 
-BASE_DIR = r"d:\ResearchPaperPrepare\JX02_Teaching_Research_2"
+BASE_DIR = r"d:\ResearchPaperPrepare\masf-public"
 DATA_DIR = os.path.join(BASE_DIR, "data", "mcminer", "dataset", "corrupted_codes_best")
 PROCESSED_DIR = os.path.join(BASE_DIR, "data", "processed")
 RESULTS_DIR = os.path.join(BASE_DIR, "results")
