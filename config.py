@@ -4,7 +4,7 @@ Configuration file for MASF experiments.
 import os
 
 # Paths
-BASE_DIR = r"d:\ResearchPaperPrepare\JX02_Teaching_Research_2"
+BASE_DIR = r"d:\ResearchPaperPrepare\masf-public"
 DATA_DIR = os.path.join(BASE_DIR, "data", "mcminer", "dataset", "corrupted_codes_best")
 PROCESSED_DIR = os.path.join(BASE_DIR, "data", "processed")
 RESULTS_DIR = os.path.join(BASE_DIR, "results")
