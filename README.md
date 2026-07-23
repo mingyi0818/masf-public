@@ -1,18 +1,13 @@
-﻿# JX02_Teaching_Research_2
+# MASF: Misconception-Aware Support Framework
 
-## Environment Setup
+This repository contains analysis scripts and figure-generation code for the study on misconception detection in introductory programming.
 
-```bash
-pip install -r requirements.txt
-``` 
+## Structure
 
-## Run Experiments
+- data/ - Processed datasets
+- code/ - Source code
+- esults/ - Experiment results
 
-```bash
-python config.py
-``` 
+## Reproduction
 
-## Citation
-
-Please cite the corresponding paper if you use this code.
-
+See eproduce.md for detailed reproduction instructions.
